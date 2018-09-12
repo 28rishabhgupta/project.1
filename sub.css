@@ -1,0 +1,50 @@
+.complain-title{
+	background-color: #666;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+
+}
+body{
+	 margin: 0;
+	 padding: 0;
+	 text-align: center;
+	 font-family: sans-serif;
+	 background: linear-gradient(to right, #3c3b3f,#605c3c);   
+}
+form{
+	margin-top: 50px;
+	
+}
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid white;
+	color: #fff;
+	margin-bottom: 16px;
+	font-size: 18px;
+}
+input{
+	height: 45px;
+	color: white;
+}
+.form-submit{
+	background: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 15px;
+	cursor: pointer;
+	letter-spacing: 4px;
+	height: 40px;
+	margin-top: 20px;
+}
+.form-submit:hover{
+	background-color: green;
+	cursor: pointer;
+}
+
+
+
+
